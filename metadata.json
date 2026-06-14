@@ -1,0 +1,6 @@
+{
+  "name": "Sandeep Katariya - WebGL Portfolio",
+  "description": "Hyper-premium, immersive, 3D WebGL-driven digital environment acting as an interactive portfolio for Sandeep Katariya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
